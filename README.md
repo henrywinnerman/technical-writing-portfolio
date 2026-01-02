@@ -69,8 +69,8 @@ Hands-on projects teaching specific skills through building real applications.
 | [Building a Weather App with React](tutorials/react-weather-app-tutorial.md) | Complete tutorial for building a weather application with API integration, state management, and responsive design | React, OpenWeatherMap API, CSS |
 | [Klaviyo Email Marketing on Shopify](tutorials/klaviyo-shopify-email-marketing.md) | E-commerce tutorial covering email automation, abandoned cart flows, and campaign analytics | Shopify, Klaviyo, E-commerce |
 
-- [Freecodecamp] (https://www.freecodecamp.org/news/author/henrywinnerman/)
-- [Hashnode] (https://henrywinnerman.hashnode.dev/)
+- [My Contributions on Freecodecamp] (https://www.freecodecamp.org/news/author/henrywinnerman/)
+- [My Articles on Hashnode] (https://henrywinnerman.hashnode.dev/)
 
 **Skills demonstrated:** Project-based learning, complete code examples, real-world applications, best practices
 
