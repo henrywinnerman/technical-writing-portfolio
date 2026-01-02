@@ -3,7 +3,7 @@
 **Henry Adepegba** — Technical Writer specializing in API documentation, developer guides, and software tutorials.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-henrywinnerman.github.io-blue)](https://henrywinnerman.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/henryadepegba)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/adepegba-henry)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:adepegbahenry@gmail.com)
 
 ---
@@ -152,7 +152,7 @@ Previously, I worked as a Research Assistant specializing in molecular epidemiol
 I'm available for technical writing opportunities, documentation projects, and freelance work.
 
 - **Email**: [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn**: [linkedin.com/in/henryadepegba](https://linkedin.com/in/henryadepegba)
+- **LinkedIn**: [linkedin.com/in/henryadepegba](https://linkedin.com/in/adepegba-henry)
 - **GitHub**: [github.com/henrywinnerman](https://github.com/henrywinnerman)
 - **Portfolio**: [henrywinnerman.github.io](https://henrywinnerman.github.io)
 
