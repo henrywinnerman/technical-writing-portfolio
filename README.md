@@ -15,8 +15,8 @@ This repository contains samples of my technical writing work.
 
 
 ## Tutorials
-Freecodecamp: (https://www.freecodecamp.org/news/author/henrywinnerman/)
-Hashnode: (https://henrywinnerman.hashnode.dev/)
+- Freecodecamp: (https://www.freecodecamp.org/news/author/henrywinnerman/)
+- Hashnode: (https://henrywinnerman.hashnode.dev/)
 
 ---
 
