@@ -8,8 +8,7 @@ This repository contains samples of my technical writing work.
 # Samples
 
 ## Integration Guides
-- [Paystack + Laravel Integration Guide](./integration-guides/paystack-laravel-integration.md) — Complete guide to accepting payments in Laravel using the Paystack API
-- 
+- [Paystack + Laravel Integration Guide](./integration-guides/paystack-laravel-integration.md) — Complete guide to accepting payments in Laravel using the Paystack API 
 
 
 ## User Guides
