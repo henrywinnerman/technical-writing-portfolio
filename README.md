@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-henrywinnerman.github.io-blue)](https://henrywinnerman.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5)](https://linkedin.com/in/adepegba-henry)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:adepegbahenry@@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:adepegbahenry@gmail.com)
 ---
 
 ## About This Portfolio
