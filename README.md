@@ -26,8 +26,8 @@ Step-by-step guides for integrating third-party services into applications.
 
 | Sample | Description | Technologies |
 |--------|-------------|--------------|
-| [Paystack + Laravel Integration](integration-guides/paystack-laravel-integration-guide.md) | Complete payment integration guide covering database setup, payment processing, webhooks, and production deployment | Laravel, PHP, Paystack API |
-| [Paystack + Next.js Integration](integration-guides/paystack-nextjs-integration-guide.md) | Modern React-based integration using TypeScript, API routes, and server-side verification | Next.js 14, TypeScript, React |
+| [Paystack + Laravel Integration](integration-guides/paystack-laravel-integration.md) | Complete payment integration guide covering database setup, payment processing, webhooks, and production deployment | Laravel, PHP, Paystack API |
+| [Paystack + Next.js Integration](integration-guides/paystack-nextjs-integration.md) | Modern React-based integration using TypeScript, API routes, and server-side verification | Next.js 14, TypeScript, React |
 
 **Skills demonstrated:** Code samples, environment configuration, security best practices, error handling
 
