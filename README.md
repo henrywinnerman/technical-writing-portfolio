@@ -68,6 +68,18 @@ Hands-on projects teaching specific skills through building real applications.
 | [Building a Weather App with React](tutorials/react-weather-app-tutorial.md) | Complete tutorial for building a weather application with API integration, state management, and responsive design | React, OpenWeatherMap API, CSS |
 | [Klaviyo Email Marketing on Shopify](tutorials/klaviyo-shopify-email-marketing.md) | E-commerce tutorial covering email automation, abandoned cart flows, and campaign analytics | Shopify, Klaviyo, E-commerce |
 
+### 📰 Articles
+
+In-depth articles explaining technical concepts for various audiences.
+
+| Article | Description | Audience |
+|---------|-------------|----------|
+| [AI Automation: A Practical Guide for Businesses](articles/ai-automation-business-guide.md) | How AI is transforming workflows, with implementation strategies and common pitfalls | Business Leaders, Decision Makers |
+| [Securing Your Web Application](articles/web-application-security-tutorial.md) | Hands-on cybersecurity tutorial covering SQL injection, XSS, authentication, and HTTPS | Developers, Security Engineers |
+
+**Skills demonstrated:** Concept explanation, audience adaptation, technical accuracy, practical guidance
+
+
 - [My Contributions on Freecodecamp] (https://www.freecodecamp.org/news/author/henrywinnerman/)
 - [My Articles on Hashnode] (https://henrywinnerman.hashnode.dev/)
 
@@ -100,6 +112,7 @@ Each sample was chosen to demonstrate different documentation skills:
 | **API Documentation** | Understanding of REST conventions, authentication, and error handling |
 | **User Guides** | User-centered writing with clear task orientation |
 | **Tutorials** | Teaching ability with progressive skill building |
+| **Articles** | Explaining complex topics for different audiences |
 
 ### Technology Coverage
 
@@ -110,6 +123,7 @@ This portfolio demonstrates documentation across:
 - **Platforms**: Shopify, GitHub
 - **APIs**: Payment (Paystack, Flutterwave), Communications (Termii), Weather (OpenWeatherMap)
 - **Tools**: Postman, GitHub Actions, Klaviyo
+-  **Security**: Authentication, encryption, OWASP guidelines
 
 ---
 
@@ -127,9 +141,12 @@ technical-writing-portfolio/
 ├── user-guides/
 │   ├── postman-api-testing-guide.md
 │   └── github-actions-documentation-guide.md
-└── tutorials/
-    ├── react-weather-app-tutorial.md
-    └── klaviyo-shopify-email-marketing.md
+├── tutorials/
+│   ├── react-weather-app-tutorial.md
+│   └── klaviyo-shopify-email-marketing.md
+└── articles/
+    ├── ai-automation-business-guide.md
+    └── web-application-security-tutorial.md
 ```
 
 ---
